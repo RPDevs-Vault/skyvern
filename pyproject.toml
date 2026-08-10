@@ -57,7 +57,7 @@ local = [
     "pyotp>=2.9.0,<3",
     "json5>=0.13.0,<1",
     "json-repair>=0.60.1,<0.61",
-    "pypdf>=6.12.0,<7",
+    "pypdf>=6.15.0,<7",
     "pdfplumber>=0.11.0,<0.12",
     "psutil>=7.0.0",
     "tiktoken>=0.9.0",
@@ -135,7 +135,7 @@ server = [
     "asyncpg>=0.30.0,<0.32",
     "json5>=0.13.0,<1",
     "json-repair>=0.60.1,<0.61",
-    "pypdf>=6.12.0,<7",
+    "pypdf>=6.15.0,<7",
     "pdfplumber>=0.11.0,<0.12",
     # <3.4: 3.4.3 enables HostOriginGuardMiddleware by default (421 on public hosts, SKY-12003).
     # cloud_app passes allowed_hosts/allowed_origins when supported; validate against 3.4.x before raising.

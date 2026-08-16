@@ -70,7 +70,7 @@
     "express": "^4.21.2",
     "fetch-to-curl": "^0.6.0",
     "fflate": "^0.8.2",
-    "nanoid": "^5.0.7",
+    "nanoid": "^5.1.16",
     "open": "^10.1.0",
     "posthog-js": "^1.138.0",
     "re-resizable": "^6.11.2",
